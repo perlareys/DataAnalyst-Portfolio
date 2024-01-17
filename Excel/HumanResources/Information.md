@@ -1,13 +1,16 @@
-# Financial Analysis
+# Human Resources Indicators
 
 ### Project Overview
-
+This project focuses on analyzing and graphically representing the information of 820 employees in a company. The data includes details such as the worker's name, work area, warehouse, position, hiring date, and, if necessary, termination date. The visualization aims to provide a deep understanding of the structure and dynamics of the personnel, allowing the identification of patterns, trends, and areas for improvement in human resources management. Additionally, its utility in understanding the current state of employee turnover in the company is emphasized, facilitating informed decision-making and the implementation of effective strategies for employee retention.
 ### Data Source
-
+The information used in this project was obtained from a YouTube channel that provides fictional data specifically designed for dashboard development. These simulated data sets allow the creation of impactful and effective visualizations, providing the opportunity to work with practical information tailored to the needs of dashboard design. The use of fictional information ensures the confidentiality and privacy of real employee details while enabling the development of meaningful visualizations for analysis and decision-making in the field of human resources.
 ### Tool
-
+La herramienta empleada en este proyecto es Microsoft Excel. Con su amplia gama de funciones y capacidades de visualización de datos, Excel se convierte en una herramienta versátil para analizar y representar gráficamente la información de los 820 empleados. Su interfaz intuitiva facilita la manipulación de datos, el cálculo de indicadores clave y la creación de gráficos detallados. Además, la integración de funciones avanzadas permite generar dashboards dinámicos que ofrecen una representación clara y efectiva de los indicadores de recursos humanos. La elección de Excel como plataforma principal proporciona una solución práctica y accesible para la visualización y análisis de datos en este proyecto.
 ### Data Cleaning/Preparation
-
+Before starting the project, a thorough review of the data was conducted to prevent potential issues in later stages. Special attention was given to the cell formatting, ensuring it aligned appropriately with the nature of the information contained in each one. Likewise, checks were performed to confirm the absence of missing or null data, ensuring the integrity of the information and the reliability of the results. This meticulous initial review aimed to establish a solid and dependable foundation for the project development, minimizing potential errors and ensuring accuracy in the visual representation of human resources indicators.
 ### Exploratory Data Analysis
+The total number of hired and dismissed employees was determined to calculate the staff turnover, using this information as a fundamental basis. Additionally, the quantity of employees per position was analyzed, calculating specific turnover rates for each role. Likewise, turnover by warehouse was assessed, providing a detailed insight into personnel movements in each area of the company.
 
+The interactive dashboard reflects the number of hirings and dismissals segmented by departments, allowing a thorough understanding of changes in different company divisions. Furthermore, monthly hirings and dismissals are detailed, offering a temporal perspective that facilitates the identification of seasonal patterns or trends over time. This comprehensive analytical approach translates into an interactive dashboard that provides key strategic information for decision-making in human resources management, enabling a dynamic and detailed understanding of the labor situation within the company.
 ### Results/Findings
+![](https://github.com/perlareys/DataAnalyst-Portfolio/blob/main/Excel/HumanResources/Dashboard.PNG)
